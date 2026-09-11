@@ -3,6 +3,79 @@
 Please contribute links and short descriptions of potential projects via
 [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Shameless self-plugs are fine and very much appreciated.
 
+Use the followings tags:
+- Level
+  - `introductory`: No specific prior knowledge is required
+  - `advanced`: Prior knowledge is required.
+- Scope
+  - `business-specific`: Specifically related to business studies
+  - `cross-disciplinary`: Applicable across disciplines.
+
+
+## Search and Discover
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Access](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-access/) // [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) // [Chapter Open Code](https://openeconomics.zbw.eu/en/knowledgebase/)  `introductory` `business-specific` (economics)
+- [BERD Data Portal](https://www.berd-nfdi.de/data-portal/) `business-specific`
+
+
+## Develop Idea
+
+## Design Study 
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/)  (economics)
+- [FORRT Open Research Course](https://forrt.org/open-research-course/) -> [Chapter 1: What is Open Research?](https://forrt.org/open-research-course/Week2.html) // [Chapter 4: Documenting Decisions Transparently](https://forrt.org/open-research-course/Week4.html) `introductory` `cross-disciplinary`
+- [NASA Open Science 101 Training](https://science.nasa.gov/open-science/training/) -> [Module 2: Open Tools and Resources](https://science.nasa.gov/open-science/training/) `introductory` `cross-disciplinary`
+- [LMU Self-Learning Course Catalog](https://www.osc.lmu.de/training/self-learning.html) -> [Chapter Study Planning](https://www.osc.lmu.de/training/study-planning/) `introductory` `cross-disciplinary`
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 1: Plan & Design](https://www.osc.lmu.de/training/research-cycle-handbook/01-plan-and-design.html) `introductory` `advanced` `cross-disciplinary`
+
+
+## Acquire Materials 
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Access](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-access/) // [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) // [Chapter Open Code](https://openeconomics.zbw.eu/en/knowledgebase/) `introductory` `business-specific`  (economics)
+- [BERD Data Portal](https://www.berd-nfdi.de/data-portal/) `level ?` `business-specific`
+- [NASA Open Science 101 Training](https://science.nasa.gov/open-science/training/) -> [Module 3: Open Data](https://zenodo.org/records/10161527) `introductory` `cross-disciplinary`
+
+## Collect Data
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) `introductory` `business-specific`  (economics)
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 2: Collect & Manage](https://www.osc.lmu.de/training/research-cycle-handbook/02-collect-and-manage.html) `introductory` `advanced` `cross-disciplinary`
+
+
+## Store Data
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) `introductory` `business-specific`
+- [BERD Data Portal](https://www.berd-nfdi.de/data-portal/) `level ?` `business-specific`
+- [FORRT Open Research Course](https://forrt.org/open-research-course/) -> [Chapter 6:  Accessibility: Making your research accessible online](https://forrt.org/open-research-course/Week6.html) `introductory` `cross-disciplinary`
+- [NASA Open Science 101 Training](https://science.nasa.gov/open-science/training/) -> [Module 3: Open Data](https://zenodo.org/records/10161527) `introductory` `cross-disciplinary`
+- [LMU Self-Learning Course Catalog](https://www.osc.lmu.de/training/self-learning.html) -> [Chapter Data Management](https://www.osc.lmu.de/training/data-management/) `introductory` `cross-disciplinary`
+- [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) `advanced` `cross-disciplinary`
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 2: Collect & Manage](https://www.osc.lmu.de/training/research-cycle-handbook/02-collect-and-manage.html) `introductory` `advanced` `cross-disciplinary`
+
+
+## Analyze Data
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) // [Chapter Open Code](https://openeconomics.zbw.eu/en/knowledgebase/) `introductory` `business-specific` (economics)
+- [NASA Open Science 101 Training](https://zenodo.org/records/10161527) -> [Module 4: Open Code](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101) `introductory` `cross-disciplinary`
+- [LMU Self-Learning Course Catalog](https://www.osc.lmu.de/training/self-learning.html) -> [Chapter Reproducible Processes](https://www.osc.lmu.de/training/reproducible-processes/) `introductory` `cross-disciplinary`
+- [Guide to Efficient RA Computational Work in Economics](https://github.com/Alalalalaki/Guide2EconRA) `advanced` `business-specific` (economics)
+- [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) `advanced` `cross-disciplinary`
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 3: Analyze & Collaborate](https://www.osc.lmu.de/training/research-cycle-handbook/03-analyze-and-collaborate.html) `introductory` `advanced` `cross-disciplinary`
+
+
+## Interpret Findings
+- [FORRT Open Research Course](https://forrt.org/open-research-course/) -> [Chapter 3: Integrity: Challenging questionable research practices](https://forrt.org/open-research-course/Week3.html) // [Chapter 5: Integrity: Supporting robust interpretations](https://forrt.org/open-research-course/Week5.html) `introductory` `cross-disciplinary`
+- [LMU Self-Learning Course Catalog](https://www.osc.lmu.de/training/self-learning.html) -> [Chapter Principles](https://www.osc.lmu.de/training/principles/) `introductory` `cross-disciplinary`
+
+## Write Report
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 3: Analyze & Collaborate](https://www.osc.lmu.de/training/research-cycle-handbook/03-analyze-and-collaborate.html) `introductory` `advanced` `cross-disciplinary`
+
+## Publish Report 
+- [Open Economics Guide](https://openeconomics.zbw.eu/en/) -> [Chapter Open Access](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-access/) // [Chapter Open Data](https://openeconomics.zbw.eu/en/knowledgebase/) // [Chapter Open Code](https://openeconomics.zbw.eu/en/knowledgebase/) `introductory` `business-specific`  (economics)
+- [BERD Data Portal](https://www.berd-nfdi.de/data-portal/) `business-specific`
+- [FORRT Open Research Course](https://forrt.org/open-research-course/) -> [Chapter 6:Accessibility: Making your research accessible online](https://forrt.org/open-research-course/Week6.html) `introductory` `cross-disciplinary`
+- [NASA Open Science 101 Training](https://science.nasa.gov/open-science/training/) -> [Module 5: Open Results](https://zenodo.org/records/10161527) `introductory` `cross-disciplinary`
+- [LMU Self-Learning Course Catalog](https://www.osc.lmu.de/training/self-learning.html) -> [Chapter Publishing Outputs](https://www.osc.lmu.de/training/publishing-outputs/) `introductory` `cross-disciplinary`
+- [LMU Open Research Cycle Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html) -> [Chapter 4: Preserve & Share](https://www.osc.lmu.de/training/research-cycle-handbook/04-preserve-and-share.html) `introductory` `advanced` `cross-disciplinary`
+
+---
+---
+---
+
+# Former Structure
 
 ## Data-related
 
