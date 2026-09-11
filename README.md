@@ -169,28 +169,52 @@ Somewhat dated course with self-study elements.
 Using the Learning Objectives Matrix to Teach Research Data Management. 
 In: Kurbanoğlu, S., et al. Information Literacy in an AI-Driven World. 
 ECIL 2025. Communications in Computer and Information Science: Vol 2864. 
-Springer, Cham](https://doi.org/https://doi.org/10.1007/978-3-032-17272-3_24)
+Springer, Cham](https://doi.org/https://doi.org/10.1007/978-3-032-17272-3_24):
+Stellt Learning Objective Matrix (LOM) für Research Data Management vor, die Lernziele für verschiedene Zielgruppen definiert und zeigt, wie sie zur Planung und Weiterentwicklung von RDM-Schulungen eingesetzt werden kann
+1. Store Data / Publish Report
+2. Vertiefend – setzt Vorkenntnisse voraus
+3. fachübergreifend
 
-Aßenmacher, M., Stephan, A., Weissweiler, L., Çano, E., Ziegler, I., 
+[Aßenmacher, M., Stephan, A., Weissweiler, L., Çano, E., Ziegler, I., 
 Härttrich, M., Bischl, B., Roth, B., Heumann, C., & Schütze, H. (2024): 
 Collaborative Development of Modular Open Source Educational Resources for 
 Natural Language Processing. In S. Al-azzawi, L. Biester, G. Kovács, 
 A. Marasović, L. Mathur, M. Mieskes, & L. Weissweiler (Eds.), Proceedings 
 of the Sixth Workshop on Teaching NLP (pp. 43–53). 
-Association for Computational Linguistics.
+Association for Computational Linguistics](
+https://aclanthology.org/2024.teachingnlp-1.6
+):
+Vorstellung eines Open-Source-NLP-Kurses (Gestaltung, hochschulübergreifende Zusammenarbeit, Herausforderungen bei der Anpassung und kontinuierlichen Aktualisierung digitaler Lehrmaterialien)
+1. Analyze Data
+2. Vertiefend – setzt Vorkenntnisse voraus
+3. fachübergreifend
 
-[BERD@NFDI (2026): BERD OER Finder](https://berd-nfdi.github.io/BERD_OER/)
- 
-[BERD@NFDI (2025): Make Your Research Reproducible: Course Booklet. GitHub](https://github.com/BERD-NFDI/BERD-reproducible-research-course)
 
-[Bergh, Sharp, Aguinis & Li: "Is there a credibility crisis in strategic management research?", Strategic Organization, 15(3), 423–436, 2017.](https://journals.sagepub.com/doi/10.1177/1476127017701076): Attempted reproduction of 88 Strategic Management Journal articles using only the data reported in the papers themselves; finds most studies lack sufficient disclosure and that a substantial share of previously significant results no longer hold up.
+[BERD@NFDI (2026): BERD OER Finder](https://berd-nfdi.github.io/BERD_OER/):
+Suchportal zum Finden und Entdecken von Open Educational Resources und Lehrmaterialien
+1. Search and Discover
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. BWL-spezifisch
+
+[BERD@NFDI (2025): Make Your Research Reproducible: Course Booklet. GitHub](https://github.com/BERD-NFDI/BERD-reproducible-research-course):
+Einführungskurs, der Forschende Schritt für Schritt an Rezipierbarkeit heranführt
+1. Store Data / Analyse Data / Publish Data
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. Fachübergreifend
+
+[Bergh, Sharp, Aguinis & Li: "Is there a credibility crisis in strategic management research?", Strategic Organization, 15(3), 423–436, 2017.](https://journals.sagepub.com/doi/10.1177/1476127017701076): 
+Attempted reproduction of 88 Strategic Management Journal articles using only the data reported in the papers themselves; finds most studies lack sufficient disclosure and that a substantial share of previously significant results no longer hold up.
 
 [Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., 
 Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., 
 Voigt, A., & Wiljes, C. (2025): Metadatenschema für 
 Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo](
   https://doi.org/10.5281/zenodo.14800610
-)
+):
+Zweite Version eines Metadatenschemas für FDM-Schulungsmaterialien, das Struktur, Interoperabilität, Auffindbarkeit, Nachnutzbarkeit und Standardisierung verbessert
+1. Store Data
+2. Vertiefend – setzt Vorkenntnisse voraus
+3. fachübergreifend
 
 [Brodeur et al. (2026): Reproducibility and robustness of economics and 
 political science research, Nature](https://doi.org/10.1038/s41586-026-10251-x):
@@ -216,14 +240,24 @@ the opinions of international accounting research community. Also features a
 Assistent von BERD@BW zur Aufbereitung von Rechtsfragen im Bereich Open Science. 
 E-Science-Tage 2021: Share Your Research Data, 306–313](
   https://doi.org/http://dx.doi.org/10.11588/heibooks.979.c13742
-) 
- 
+):
+Vorstellung des interaktiven Virtuellen Assistenten (iVA), der Forschende beim Verständnis datenschutzrechtlicher Anforderungen unterstützt
+1. Design Study / Collect Data / Store Data
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. Fachübergreifend
+Hier das Tool mit drei unterschiedlichen Modulen: https://www.berd-nfdi.de/legal-questions/ 
+
 [Maedche, A., Elshan, E., Höhle, H., Lehrer, C., Recker, J., Sunyaev, A., 
 Sturm, B., & Werth, O. (2024): Open Science: Towards Greater Transparency 
 and Openness in Science. Business & Information Systems Engineering, 66(4), 
 517–532](
   https://doi.org/10.1007/s12599-024-00858-7
-)
+):
+Diskutiert Open Science in der Wirtschaftsinformatik, beleuchtet Chancen und Herausforderungen und zeigt am Beispiel von BERD@NFDI, wie Open-Science-Infrastrukturen Forschung offener, transparenter und zugänglicher machen können
+1. Acquire Materials / Collect Data / Store Data / Analyse Data (Artikel deckt aber fast den gesamten Zyklus ab)
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. BWL-spezifisch
+
  
 [Miske et al. (2026): Investigating the reproducibility of the social and 
 behavioural sciences, Nature](https://doi.org/10.1038/s41586-026-10203-5):
@@ -244,8 +278,17 @@ Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A.,
 Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., 
 Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025): 
 Learning Objectives Matrix on the Topic of Research Data Management (RDM). 
-Zenodo](https://doi.org/10.5281/zenodo.15846806)
+Zenodo](https://doi.org/10.5281/zenodo.15846806):
+Matrix gliedert Lehrinhalte rund um Dokumentation, Ablage, Speicherung und Pflege von Forschungsdaten
+1. Store Data
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. Fachübergreifend
+
  
 [Stoilova, V., Breß, C., Brunner, P., Deschler, K., & Reiser, N. (2025): 
 FAIR-Prinzipien und Datenschutz | Factsheet 1 - Einwilligung: FAIR und 
-datenschutzkonform. Zenodo](https://doi.org/10.5281/zenodo.15786777)
+datenschutzkonform. Zenodo](https://doi.org/10.5281/zenodo.15786777):
+Factsheet zur rechtssicheren Gestaltung von Einwilligungserklärungen
+1. Design Study / Acquire Materials / Collect Data
+2. Grundlegend – ohne besondere Vorkenntnisse
+3. Fachübergreifend
